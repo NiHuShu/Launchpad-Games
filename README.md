@@ -1,5 +1,5 @@
 # Launchpad-Games
-A series of games that I've created for Novation Launchpad using Python and launchpad.py library.
+A series of games that I've created for Novation Launchpad (right now they are only compatible with MK2) using Python and launchpad.py library.
 To run those games you will need "launchpad.py" and "pygame" which you can get using pip.
 
 In **Screenshots** folder you can see how the game looks on PC and on Launchpad, I'll make a video about them later.
