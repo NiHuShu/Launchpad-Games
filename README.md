@@ -4,7 +4,10 @@ To run those games you will need "launchpad.py" and "pygame" which you can get u
 
 In **Screenshots** folder you can see how the game looks on PC and on Launchpad, I'll make a video about them later.
 
-I have almost zero experience with coding in Python but I know C# so I've decided to give it a try. Now you can download games separately but when I'll finish all the games then I'll make one big app with all them combined. At this moment there is only one game:
+I have almost zero experience with coding in Python but I know C# so I've decided to give it a try. Now you can download games separately but when I'll finish all the games then I'll make one big app with all them combined. At this moment there aren't too many games:
 
 ## Tic Tac Toe for Launchpad
 I've even made an app to see the game board on PC (or anything that can run PyGame) but it's easy enough that you can play it without looking at the screen. The first player is "O", you can place figures on white squares, you can use "Session" button to restart the game in case something goes wrong. The rest is normal Tic-Tac-Toe rules
+
+## Dice for Launchpad
+Just a simple app that allows you to roll the dice, you can use arrows to change the color of the dice, press top left button to roll the dice
